@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "pluginName": "我的计算器",
+    "description": "一个简单的计算器",
+    "author": "zYeoman",
+    "homepage": "https://github.com/zYeoman/utools-yeo-calculator",
+    "preload": "preload.js",
+    "logo": "logo.png",
+    "features": [
+      {
+        "code": "calc",
+        "explain": "我的计算器",
+        "cmds": [
+          "js",
+          "mjs"
+        ]
+      }
+    ]
+  }
